@@ -153,7 +153,7 @@ data_table.visualization_csv( # para visualizar de forma gráfica com a possibil
 </pre>
 <br>
 Resultado:
-<p align="center"><img src="https://github.com/aiquantumneuro/treinamento_e_predicao_com_csv/blob/main/arquivo_de_treinamento_csv.png"></p>
+<p align="center"><img src="https://github.com/grupoquantum/treinamento_e_predicao_com_csv/blob/main/arquivo_de_treinamento_csv.png"></p>
 <br>
 <p align="justify">
 Com o Neuraline você pode treinar o seu algoritmo usando dados de um arquivo CSV de forma muito simples através do método “fitCSV”. Com este método você poderá referenciar as colunas que serão os dados de entrada e as colunas que serão os dados de saída de maneira rápida e prática, veja um exemplo disso no código abaixo:
